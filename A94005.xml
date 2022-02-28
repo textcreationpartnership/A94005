@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange nevves from Campania a province in Italy: being a true relation of one who slept at noon-time of day, how his spirit was transported into the province of Campania in Italy, by chance, near unto the lake Avernus, also his discourse with an old man of that province, concerning the present distempers in those parts, not unlike these in England, who after his recovery out of an extasie (by reason of the cruelties and bloud-sucking oppressions in that province) writ these ensuing lines:.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94005</idno>
+            <idno type="STC">Wing S5889</idno>
+            <idno type="STC">Thomason E399_3</idno>
+            <idno type="STC">ESTC R201709</idno>
+            <idno type="EEBO-CITATION">99862209</idno>
+            <idno type="PROQUEST">99862209</idno>
+            <idno type="VID">114360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114360)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange nevves from Campania a province in Italy: being a true relation of one who slept at noon-time of day, how his spirit was transported into the province of Campania in Italy, by chance, near unto the lake Avernus, also his discourse with an old man of that province, concerning the present distempers in those parts, not unlike these in England, who after his recovery out of an extasie (by reason of the cruelties and bloud-sucking oppressions in that province) writ these ensuing lines:.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>Imprinted at Attalia, [i.e. London :</pubPlace>
+                  <date>in the yeare MDCXLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false; actual place of publication from Wing.</note>
+                  <note>An anti-Parliamentary allegory in verse.</note>
+                  <note>Annotation on Thomason copy: "July 17th".</note>
+                  <note>Trimmed at foot, affecting catchwords and signatures.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114360:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>STRANGE NEVVES FROM CAMPANIA <hi>A Province in</hi> ITALY: BEING A true Relation of one who ſlept at noon<g ref="char:EOLhyphen"/>time of day, how his ſpirit was tranſported into the Pro<g ref="char:EOLhyphen"/>vince of <hi>Campania</hi> in <hi>Italy,</hi> by chance, near unto the Lake <hi>Avernus,</hi> alſo his diſcourſe with an old man of that <hi>Pro<g ref="char:EOLhyphen"/>vince,</hi> concerning the preſent diſtempers in thoſe parts, not unlike theſe in <hi>England,</hi> who after his recovery out of an extaſie (by reaſon of the Cruelties, and bloud-ſucking oppreſſions in that <hi>Province</hi>) writ theſe enſuing Lines:</p>
+            <q>
+               <bibl>Pſal. 1.1.</bibl>
+               <l>Faelix ille animum qu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m non de Tramite recte,</l>
+               <l>Impia ſacrilega flexit contagio turba.</l>
+            </q>
+            <p>Imprinted at ATTALIA, in the Yeare MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:114360:2"/>
+            <!-- PDF PAGE 14 -->
+            <lg>
+               <l>
+                  <hi>Plutoes</hi> dark Dungeon, <hi>Dedalus</hi> Labyrinth,</l>
+               <l>Great <hi>Lucifers</hi> night-ſtar, and the <hi>Berecinth,</hi>
+               </l>
+               <l>Which theſe three-headed <hi>Hydraes</hi> worſhip more</l>
+               <l>Then Chriſt their Saviour; and that Devill adore,</l>
+               <l>Becauſe of Profit it on them beſtowes,</l>
+               <l>Greater then horne mad Votes, and forſworne Vowes.</l>
+               <l>It is bewitching to their eares that itch</l>
+               <l>For Reformation, it goes thorow ſtitch:</l>
+               <l>The devills Plot, for ſure in hell 'twas hatch't,</l>
+               <l>And ſome Scotch <hi>Calvin</hi> thence this Monſter fetcht;</l>
+               <l>Whereby the Devills agents worke their feat,</l>
+               <l>And caſt <hi>Campania</hi> in a bloudy ſweat.</l>
+               <l>
+                  <hi>Cerberus</hi> ſtrong Coller for't doth tye men faſt,</l>
+               <l>If once they tak't, they never more can gaſpe</l>
+               <l>One blaſt of Loyall breath; it ſuffocates</l>
+               <l>The wideſt Winde-pipe, and conſumes their pates.</l>
+               <l>Its <hi>Charons</hi> Moat indeed, no bottom's found</l>
+               <l>Of its illegall, impious, wicked ground.</l>
+               <l>Its <hi>Plutoes</hi> Dungeon; for who enters there,</l>
+               <l>Before his eyes hath never ſet Gods feare.</l>
+               <l>'Tis <hi>Dedalus</hi> Labyrinth guided by a Threed,</l>
+               <l>(And fitter 'tis to barne then for to read)</l>
+               <l>Who enters into't, he perhaps may prov't</l>
+               <l>Worſe then that Labyrinth; e're he can remov't</l>
+               <l>He muſt lye with the <hi>Minotaure,</hi> and beget</l>
+               <l>A monſtrous birth withall, and worſhip it.</l>
+               <l>Its <hi>Lucifers</hi> night-ſtar, that great Devills guide,</l>
+               <l>Which doth a theeving through the Kingdome ride,</l>
+               <l>And both the King and People hath undone,</l>
+               <l>Clad with falſe coloured Reformation.</l>
+               <l>Its <hi>Sybills</hi> Image; they ſo much adore't,</l>
+               <l>Becaus't hath better'd downe the Royall Fort.</l>
+               <l>Exciſe, Sequeſtration, Plunder, Loanes,</l>
+               <l>It gain'd, to gnaw our fleſh, and bruiſe our bones.</l>
+               <l>So all old things are growne to a new faſhion,</l>
+               <l>By Covenant-ingaging Reformation.</l>
+               <l>And yet this Hell-Hound hunting up and downe,</l>
+               <l>Purſues each loyall heart from Towne to Towne,</l>
+               <l>With yelping, yelling, and a hideous roare,</l>
+               <l>Till it have left them never a Mite in ſtore.</l>
+            </lg>
+            <lg>
+               <l>Whilſt yet he ſpoke, behold another ſight</l>
+               <l>(With great amazement) did my ghoſt afright:</l>
+               <l>
+                  <pb facs="tcp:114360:2"/>
+                  <!-- PDF PAGE 14 -->
+Whole multitudes were gathered on a knot,</l>
+               <l>And cloſe unto a ſtately Pallace got,</l>
+               <l>Neare to the Luke <hi>Avernus</hi> ſituated,</l>
+               <l>Where (he told me) their buſineſſe was ſtated:</l>
+               <l>If you be pleas'd (quoth he) wee'll goe along,</l>
+               <l>And heare what's to be done in yonder throng:</l>
+               <l>Agreed (queth I) and thence we went away,</l>
+               <l>To ſee what would betide the State that day.</l>
+            </lg>
+            <lg>
+               <l>When to the Pallace we approached neare,</l>
+               <l>The groanes and cries of widowes we did heare,</l>
+               <l>Lamenting for their husbands who were ſlaine</l>
+               <l>The Cauſes of the wicked to maintaine.</l>
+               <l>Sighing ſayes one, let us goe to the State,</l>
+               <l>And know if they our ſorrowes will abate;</l>
+               <l>Agreed, ſaid all, and ſtraight they thither went,</l>
+               <l>And how they ſped, to you Ile repreſent.</l>
+            </lg>
+            <lg>
+               <l>What is the matter here (quoth <hi>L.</hi>) with theſe</l>
+               <l>Perverſe ungodly women? ſeek to pleaſe</l>
+               <l>
+                  <hi>A</hi> womans minde? let's rather ſeek to ſell</l>
+               <l>Or halfe ſequeſter all the devills in hell.</l>
+               <l>Quoth <hi>H.</hi> that ſuits well with a new tranſlation,</l>
+               <l>And ballances our bleſſed Reformation:</l>
+               <l>If we ſhould give the Publick coyne away,</l>
+               <l>Our Souldiers (as they doe) would want their pay.</l>
+               <l>Its well (quoth <hi>S.</hi>) O 'tis a curious Plot,</l>
+               <l>If we ſhould do't, how ſhould we pay the <hi>Scot,</hi>
+               </l>
+               <l>For if he be not paid, an alteration</l>
+               <l>May hinder our unheard of Reformation;</l>
+               <l>And on a ſuddaine ſinke that in a ſtreame,</l>
+               <l>Which for this ſix yeares ſpace hath ſwom ith' Maine.</l>
+               <l>Be cautious then (quoth <hi>V</hi>) what you doe ſpare,</l>
+               <l>Our Grand-Committees muſt be paid their ſhare;</l>
+               <l>And let our Sub-Committees have their due,</l>
+               <l>Becauſe they faithfull were to us, and true;</l>
+               <l>And added to each private Pocket more</l>
+               <l>Then ever our great Grandſires had in ſtore.</l>
+               <l>What muſt th' Exciſe men doe, ſaid <hi>P.</hi> muſt they</l>
+               <l>(For all the paines th' have taken) want their pay?</l>
+               <l>They have themſelves like honeſt men demean'd,</l>
+               <l>And much oth' Kingdomes Treaſure they have gain'd</l>
+               <l>For thee and me: The hungry they Excis'd,</l>
+               <l>And like the Devill himſelfe have tyranniz'd.</l>
+               <l>
+                  <pb facs="tcp:114360:3"/>
+                  <!-- PDF PAGE 15 -->
+                  <hi>A</hi> Member muſt not be forgotten ſaies <hi>M:</hi>
+               </l>
+               <l>For if we Members want, we are not men,</l>
+               <l>Our Sequeſtrators muſt rewarded be,</l>
+               <l>And every Petty-fogger have his fee:</l>
+               <l>Then when to thee, and me all's paid that's due,</l>
+               <l>We will againe begin our Trades anew.</l>
+               <l>Like <hi>Tytius</hi> Vulture we will knaw the hearts</l>
+               <l>O'th' Common-people; we will act our parts</l>
+               <l>In higheſt nature, and in every thing</l>
+               <l>That may our profit, and our pleaſure bring.</l>
+               <l>Wee'l heape up Treaſure, wee'l enrich our ſtore,</l>
+               <l>Wee'l ſerve the devill for wealth (that) if not more.</l>
+               <l>They all agreed with acclamation, vow'd</l>
+               <l>What <hi>M.</hi> had ſpoke they every one allow'd.</l>
+               <l>so every one ſhat'd of the Publique Coyne,</l>
+               <l>And ſent their ſervants out more to purloyne:</l>
+               <l>But all this while the harmeleſſe women gain'd</l>
+               <l>No reſtitution for their ſlaine or main'd.</l>
+            </lg>
+            <lg>
+               <l>Forth with I ask't my guide what all this meant;</l>
+               <l>It is (quoth he) our bleſſed Parliament,</l>
+               <l>Which hath ſlaine guiltleſſe bloud, and murthered many,</l>
+               <l>And never pittied the complaints of any:</l>
+               <l>The Widdowes teares, and eke the Fatherleſſe</l>
+               <l>Could never find of them a juſt redreſſe.</l>
+               <l>Let him declare (if there be any one)</l>
+               <l>To whom one act of juſtice they have done;</l>
+               <l>Survey the Land (who will) from Eaſt to Weſt,</l>
+               <l>From North to South, and let him do his beſt,</l>
+               <l>For all his travell he ſhall never find</l>
+               <l>
+                  <hi>A</hi> graine of mercy in their perverſe mind:</l>
+               <l>One drop of Balſom will not be apply'd</l>
+               <l>By our grave Senate to the putrifi'd.</l>
+            </lg>
+            <lg>
+               <l>O God (quoth I) what wretched men are ye,</l>
+               <l>Ty'd with a boundleſſe chaine of ſlavery!</l>
+               <l>Have you no way your ſelves for to redreſſe?</l>
+               <l>Have you no meanes th'oppreſſors to ſuppreſſe?</l>
+               <l>Seeke all the world throughout; never be ty'd</l>
+               <l>To a perpetuall bondage, by their pride;</l>
+               <l>Whoſe thoughts are never fixt on that is good,</l>
+               <l>Whoſe feet are ſwift to ſhed the guiltleſſe bloud;</l>
+               <l>Their tongues ſpeake lies, their lips are full of guile,</l>
+               <l>Their Councels Treaſon hatch, by ever wile.</l>
+               <l>
+                  <pb facs="tcp:114360:3"/>
+                  <!-- PDF PAGE 15 -->
+Let all your Conſcript Fathers be transform'd,</l>
+               <l>And let them be by every Peaſant ſcorn'd<g ref="char:punc">▪</g>
+               </l>
+               <l>Let all your <hi>Deeij</hi> Chriſtian Perſecutors</l>
+               <l>Be rendered to the Seſſions Executors.</l>
+               <l>Then ſhall your ancient Liberties be ſhowne,</l>
+               <l>And every honeſt man enjoy his owne.</l>
+            </lg>
+            <lg>
+               <l>The good old Man deep ſighing thus replied,</l>
+               <l>I'm fraid (quoth he) this will not ſoone betide,</l>
+               <l>My heart could wiſh to morrow was the day</l>
+               <l>They were all hid, or elſe would run away;</l>
+               <l>If it ſhould happen ſo (even for their ſake)</l>
+               <l>I'le drinke their health of ſtrong <hi>Avernus</hi> Lake;</l>
+               <l>I would (in memory of them) keepe that day</l>
+               <l>A joyfull feaſt; and will for ever pray</l>
+               <l>That all thoſe Traytors who their King withſtood,</l>
+               <l>May dye (like <hi>Pilate</hi>) voyding guts, and bloud;</l>
+               <l>And after that, they <hi>Ixions</hi> paines may feele,</l>
+               <l>By turning a perpetuall burning wheele;</l>
+               <l>Or keepe a Senat with their Grandſire Nick,</l>
+               <l>And in his Kingdome play him ſuch a tricke</l>
+               <l>(As they have lately in <hi>Campania</hi> done)</l>
+               <l>And become heires of his eternall throne;</l>
+               <l>There's worke enough for them, and all their rable,</l>
+               <l>Their Clearks may be made Knights of his round table.</l>
+               <l>His Kingdom's large, employments they may have,</l>
+               <l>And every thing he gives, if they can crave.</l>
+            </lg>
+            <lg>
+               <l>Whileſt yet he ſpake, behold within our view</l>
+               <l>Came trooping o're the banke another crew</l>
+               <l>Of warlike Souldiers; but their cloathes were thin,</l>
+               <l>The State turn'd Shearemen, and had pincht their <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kin.</l>
+            </lg>
+            <lg>
+               <l>What meane theſe men (quoth I) that they repaire</l>
+               <l>Unto this place? what buſineſſe have they here?</l>
+            </lg>
+            <lg>
+               <l>Theſe are the States old beaten Souldiers, who</l>
+               <l>Want their Arrears, dew many months ago:</l>
+               <l>They come to aske them; I am full perſwaded,</l>
+               <l>With States high looks, they ſcarce will be out-Jaded.</l>
+               <l>They are ſtout men, they have a reſolution</l>
+               <l>To bring to try all each States mans tranſgreſſion,</l>
+               <l>And in a weeke redreſſe our grievance more</l>
+               <l>Than our brave State hath done ſixty before.</l>
+               <l>Well then (quoth I) let's heare their full diſcourſe,</l>
+               <l>And ſee which of them's Maſter of the Purſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:114360:4"/>
+               <!-- PDF PAGE 16 -->
+               <l>Out comes the Speaker with his hat in hand,</l>
+               <l>And briefly thus begins; What's your demands?</l>
+               <l>What ſervice have you done for what you crave?</l>
+               <l>Or how can you account for what you have?</l>
+               <l>Your ſervice muſt unto the world be knowne,</l>
+               <l>And what you've had muſt unto us be ſhowne,</l>
+               <l>Before we can diſpence upon Areares,</l>
+               <l>Or any thing be done, but what appeares</l>
+               <l>For th' publique good, and not for private ends:</l>
+               <l>I am in haſt, adieu my honeſt friends.</l>
+            </lg>
+            <lg>
+               <l>Well ſaid brave Speaker, thou haſt uttered more</l>
+               <l>Then all thy fellow Senators before</l>
+               <l>Have ever done; when thou doſt us confound,</l>
+               <l>Thy Pay ſhall be one hundred thouſand Pound.</l>
+               <l>Firſt we demand all our Arreares that's due,</l>
+               <l>For what we crave our ſervice is in view</l>
+               <l>To all the world: we ventured have our ſelves</l>
+               <l>T' enrich a crew of all devouring Elves.</l>
+               <l>We have been Traytors. Tyrants to maintaine;</l>
+               <l>And ſtill we Traytored are if we do claime</l>
+               <l>That is our due from you; O bleſſed State!</l>
+               <l>Yet to your Country moſt inveterate.</l>
+               <l>Forty Millions you have already had</l>
+               <l>O'th' Publique ſtocke: muſt not account be made?</l>
+               <l>You have diſpoſ'd of it amongſt your friends,</l>
+               <l>Not for the Publique, but to private ends.</l>
+               <l>Thouſands of harmleſſe men for you have dy'd.</l>
+               <l>Maintain'd your Treaſon, Tyranny, and Pride.</l>
+               <l>But now your cheating is found out and croſt,</l>
+               <l>And if you looke not to't all will be loſt.</l>
+               <l>As we are Souldiers, wee'l be very faire,</l>
+               <l>You ſhall not what's our due amongſt you ſhare.</l>
+               <l>Be wiſe in time, conſider what you doe,</l>
+               <l>Beware your after-wits prove not your woe.</l>
+               <l>So we departed and the State adjourn'd</l>
+               <l>Untill the morning, and my Spirit return'd</l>
+               <l>Unto its former Priſtine habitation</l>
+               <l>When it had view'd <hi>Campanias</hi> deſolation.</l>
+            </lg>
+            <epigraph>
+               <q>Quis talia fando temperat a Lacrymis<g ref="char:punc">▪</g>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:114360:5"/>
+            <!-- PDF PAGE 17 -->
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <p>in the Nation ought to preſerve the Nation as much as in him lyes; It is a univerſall principle, <hi>non nobis ſolum nati ſumus, &amp;c.</hi> We are not born for our ſelves alone; but the <hi>Country</hi> in which we live challenges an inte<g ref="char:EOLhyphen"/>reſt in us, this principle made many rejoyce in dying, eſteeming it, <hi>dulce &amp; decorum pro patria mori.</hi>
+            </p>
+            <p n="3">3. <hi>The Law of this Kingdome</hi> (by which we may expect to ſtand or fall) ſecures us in this Kingdome, we have this <hi>Maxime,</hi> that <hi>ſolus populi is ſuprema lex,</hi> The ſafety of the people is the ſupremeſt law; this was the hinge we moved upon, the Kingdomes ſafe<g ref="char:EOLhyphen"/>ty was endangered, and withent a ſpeedy application of a timely preſervative was likely to be conſumed: the beſt preſerva<g ref="char:EOLhyphen"/>tive we could ſee, was the ſecurity of his Ma<g ref="char:EOLhyphen"/>jeſties perſon, which our act hath effected. Whoſe enemies are ſo dull, and whoſe un<g ref="char:EOLhyphen"/>derſtanding is ſo ſtupified &amp; ſottiſhly blind, but may remember and know what a ſad diſaſter hath befallen the Kingdome, in the expence of ſo much blood and treaſure, by the ſurpriſing of his Majeſties Perſon in the
+<pb facs="tcp:114360:5"/>
+               <!-- PDF PAGE 17 -->late warres<g ref="char:punc">▪</g> who can but know, had they not had his perſon for their deſignes had proved abortive: We well know there was a deſigne to ſeize on his Majeſty, to raiſe a new Army, and unnaturally to involve this Kingdome in its own blood, and ſo to ren<g ref="char:EOLhyphen"/>der our latter end miſerably worſe then our beginning, but this we thought our ſelves bound to prevent if poſſible, which we ſtill judge and doubt not to prove it, and is yet lawfull for us to doe. As the King is by the law of this Kindome bound to govern and ſecure us according to the Law, ſo are wee engaged to ſecure his Perſon againſt the vio<g ref="char:EOLhyphen"/>laters of the Law, which we have, through the bleſſing of God accompliſhed, Our end was not his enthrallment, bondage and ru<g ref="char:EOLhyphen"/>ine, as by our actions may appear, but his ſafety, and the Kingdoms preſervation, which otherwi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e we juſtly fear, had both been en<g ref="char:EOLhyphen"/>dange<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; ſuppoſe the King through igno<g ref="char:EOLhyphen"/>rance of traitors intention to deſtroy His Perſon or His Kingdome ſhould expoſe him<g ref="char:EOLhyphen"/>ſelf to the mercy of him that ſought his life, do you imagine it would be treaſonable for
+<pb facs="tcp:114360:6"/>
+               <!-- PDF PAGE 18 -->any one to remove his Majeſtie though without hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſent from the place the traytor ſought his life in, and to preſerve him? but the caſe is yet more faire for us, His judgement being ſatisfied, his will w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> likewiſe concurring to his remove, we hope this our action will be recented in good part by all the Nati<g ref="char:EOLhyphen"/>on for whoſe good it was effected. Had the King been ſurpriſed, another army been under his name raiſed, the Nation once more wallowed in its owne blood; then ſurely but too late, would the people have cryed out, oh that ſome had been ſtirred up to have ſtood in this breach.</p>
+            <p n="4">IIII. The Commiſſion from the Parliament (whom ſome ſay though with more boldneſſe then judge<g ref="char:EOLhyphen"/>ment, more malice then wiſdome, and more envy then prudence or honeſty, wee have rebelled againſt and acted contrary to in this action) acquits us, for by our Commiſſion we are bound to ſeek the preſerva<g ref="char:EOLhyphen"/>tion of the Kings perſon, whether we have not ſo done let all the Kingdome judge: what hurt to his perſon have we done? what hurt to the Kingdome have we done? we are not conſcions to our ſelves that we have in this done amiſſe, who hath cauſe to complain, ſurely none can nor will, except thoſe who had thought to have made all men dance after their pipes, kiſſe their hands, and reſigne up their birth<g ref="char:EOLhyphen"/>rights, liberties and lives to their <hi>arbitrary</hi> and <hi>tyran<g ref="char:EOLhyphen"/>nicall, lawleſse, boundleſse</hi> wills, theſe <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi>-like are mad to think a poore <hi>Mordecai</hi> will not ſtand cap in hand, bow his knee, and bend unto them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
